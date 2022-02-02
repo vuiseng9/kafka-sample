@@ -14,7 +14,7 @@ Creating kafka-sample_zookeeper_1 ... done
 Creating kafka-sample_kafka_1     ... done
 ```
 
-## Kafka Listener App
+## Kafka Consumer App
 ----------------
 Simple topic consumer app - a console that prints pushed notifications by producer.
 Do change the container and topic name accordingly. 
