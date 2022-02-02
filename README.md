@@ -59,7 +59,7 @@ The enclosed ```watch_and_notify.py``` is a python script that loops indefinitel
 
 ```bash
 # download this script to dlstreamer runtime
-wget 
+wget https://raw.githubusercontent.com/vuiseng9/kafka-sample/master/watch_and_notify.py
 
 # run watch_and_notify.py as background process
 export WATCH_DIR=/tmp/target_folder # <folder_to_watch>
